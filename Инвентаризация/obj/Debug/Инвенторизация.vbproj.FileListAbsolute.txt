@@ -1,0 +1,191 @@
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+F:\Projects\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+F:\Projects\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe
+F:\Projects\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.pdb
+F:\Projects\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.xml
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.exe
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.xml
+F:\Projects\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.exe
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.xml
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.pdb
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.xml
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+E:\Колледж\2 курс\МДК 01.02\Практическая инвенторизация\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.exe
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.xml
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.xml
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form7.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form8.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+C:\Users\Dar1K\Desktop\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.exe
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.pdb
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\bin\Debug\Инвентаризация.xml
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form7.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Form8.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.exe
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.xml
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+E:\Колледж\2 курс\МДК 01.02\Инвентаризация 1.01\Инвенторизация\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.exe
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.xml
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form7.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form8.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.exe
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.xml
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form9.resources
+C:\Users\Dar1K\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form10.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.exe
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.xml
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.pdb
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.exe
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.pdb
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.xml
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form10.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form7.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form8.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form9.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form11.resources
+C:\Users\Student18\Desktop\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.Form12.resources
+E:\Колледж\2 курс\МДК 01.02\Инвенторизация 1\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+E:\Колледж\2 курс\МДК 01.02\Инвенторизация 1\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Колледж\2 курс\МДК 01.02\Инвенторизация 1\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+E:\Колледж\2 курс\МДК 01.02\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.exe
+E:\Колледж\2 курс\МДК 01.02\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.xml
+E:\Колледж\2 курс\МДК 01.02\Инвенторизация 1\Инвенторизация\obj\Debug\Инвентаризация.pdb
+F:\Projects\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+F:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+F:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.exe
+F:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.xml
+F:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+E:\Projects\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.exe
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.xml
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+E:\Projects\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe
+E:\Projects\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.pdb
+E:\Projects\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.xml
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form10.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form11.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form12.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form7.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form8.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form9.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+E:\Projects\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
+E:\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+E:\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+E:\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.exe
+E:\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.xml
+E:\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+E:\Developed\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+E:\Developed\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Developed\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+E:\Developed\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.exe
+E:\Developed\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.xml
+E:\Developed\Projects .NET\MDK 01.02\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe.config
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.ResolveComReference.cache
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.exe
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.xml
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.exe
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.pdb
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\bin\Debug\Инвентаризация.xml
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbprojResolveAssemblyReference.cache
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form1.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form10.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form11.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form12.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form2.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form3.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form4.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form5.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form6.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form7.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form8.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Form9.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвентаризация.Resources.resources
+C:\Users\Dar1K\Desktop\Инвентаризация\Инвенторизация\obj\Debug\Инвенторизация.vbproj.GenerateResource.Cache
